@@ -39,4 +39,3 @@ win32-setctime==1.1.0
 pycryptodome==3.20.0
 pillow==10.4.0
 transformers==4.45.1
-torch==2.4.1
